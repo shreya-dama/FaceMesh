@@ -1,4 +1,7 @@
 Libraries used: Opencv and mediapipe
+
+
+
 Input used: Face captured from the live camera. So a camera connected to system is required.
 
 Algorithm used:
